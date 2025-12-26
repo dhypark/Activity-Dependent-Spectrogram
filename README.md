@@ -17,4 +17,4 @@ By running the **main.m** file, you can compute the resolution-adaptive spectrog
 
 ## Reference
 
-The paper related to this source code is published at [(link)](https://doi.org/10.1016/j.sigpro.2025.110456)
+The paper related to this source code is published at [https://doi.org/10.1016/j.sigpro.2025.110456](https://doi.org/10.1016/j.sigpro.2025.110456)
