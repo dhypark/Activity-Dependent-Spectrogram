@@ -14,3 +14,7 @@ The Activity-Dependent Spectrogram provides an approach to modify the frequency 
 
 By running the **main.m** file, you can compute the resolution-adaptive spectrogram for the example signal.
 (Note that MATLAB's Signal Processing Toolbox is required for the active frequency range search algorithm.)
+
+## Reference
+
+The paper related to this source code is published at [(link)](https://doi.org/10.1016/j.sigpro.2025.110456)
